@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+A list of my favorite things:
+- 🐱
+- 🐶
+
+In order, these are my fav Ice cream flavers:
+1. chocolate
+2. vanilla
